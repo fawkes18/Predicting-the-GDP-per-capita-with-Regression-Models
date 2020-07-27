@@ -1,3 +1,3 @@
-The goal of this project is to predict the economic strength of a country with as little as possible variables. 
+The goal of this project is to predict the economic strength of a country with regression models.
 
-The  first Jupyter Notebook is about the process of the Data Collection, the second file is the actual project. 
+The first jupyter notebook shows the process of the data collection, the second file is the actual project. Unfortunately not all graphics are displayed, as github isn't showing plotly graphics. 
